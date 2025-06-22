@@ -216,6 +216,5 @@ participant Fulfillment Service
 
 - Chaque équipe présente son module.
 - Démonstration d'un passage complet de commande (du créé au livré).
-- Bonus : OpenAPI documenté et Postman ou Swagger prêt à démontrer.
 
 ---
