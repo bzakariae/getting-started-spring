@@ -6,8 +6,6 @@ Bienvenue dans ce TP fil rouge. Vous allez développer une application back-end 
 
 Chaque équipe sera responsable d'un ou plusieurs modules avec une charge de travail équilibrée.
 
-Durée totale : Environ 10 heures (+ restitution)
-
 == 2. Fonctionnement Général
 
 Lorsqu'un client souhaite passer commande :
